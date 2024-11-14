@@ -1,0 +1,6 @@
+@ASBPubSubService_HostAddress = http://localhost:5283
+
+GET {{ASBPubSubService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
